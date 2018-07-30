@@ -843,7 +843,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
 * [txZMQ](https://github.com/smira/txZMQ) - Twisted based wrapper for the ZeroMQ message library.
 * [NAPALM](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
-
+* [procbridge](https://github.com/gongzhang/proc-bridge) - Lightweight socket-based IPC protocol and networking library for Python.
 ## News Feed
 
 *Libraries for building user's activities.*
